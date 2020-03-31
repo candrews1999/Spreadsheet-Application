@@ -1,0 +1,16 @@
+B3 12
+A2 true
+B2 STRING
+A1 10.45
+C3 = F5
+B1 8
+E4 = (SUM A:B)
+D3 = (SUM A:C)
+F5 = (SUM A:E)
+C1 = (SUM A:B)
+F4 Cycle Ref to F
+F3 = (SUM A:F)
+F2 direct cycle
+F1 7
+C15 STRING
+A3 false

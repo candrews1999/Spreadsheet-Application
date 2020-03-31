@@ -1,0 +1,15 @@
+A1 true
+A2 1.0
+A3 =(SUM A1 A2)
+B1 =(PRODUCT A3 A2)
+B2 34.1
+AZ100 =(SUM B2 B1)
+D1 200
+D2 1
+E2 false
+E1 3
+F1 =(SUM A1:E2)
+G1 =(< D1 D2)
+G2 hi i have spaces
+G3 =(REMOVESPACE G2)
+H1 =(PRODUCT A1:A2)
